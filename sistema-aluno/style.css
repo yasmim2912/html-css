@@ -1,0 +1,49 @@
+body{
+    background-color:black;
+
+
+}
+.cabeçalho{
+   display: flex;
+   justify-content:space-between;
+   background-color:rgb(210, 255, 240);
+   
+}
+.cabeçalho>img{
+    height:200px; ;
+    width: 300px; ;
+}
+.cabeçalho>nav{
+    background-color: lightpink;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+:hover{
+    text-decoration: underline;
+    color:black;
+}
+:link{
+    text-decoration: none;
+}
+.conteudo{
+    justify-content: space-evenly;
+    display: flex;
+    background-color: whitesmoke;
+   height: 500px;
+}
+.conteudo>.esquerdo{
+    background-color: cornsilk;
+  flex: 1;
+   text-align: center;
+}
+.conteudo>.direito{
+    background-color:whitesmoke;
+    flex: 4;
+}
+
+.rodape{
+    background-color:rgb(210, 255, 240);
+    height: 50px;
+   text-align: center;
+}
