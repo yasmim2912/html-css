@@ -1,0 +1,14 @@
+ * {
+        margin: 0;
+      }
+      .conteudo{
+        width: 80%;
+      
+        display: grid;
+        grid-template-areas:
+          "cabacelho"
+          "conteudo"
+          "rodape";
+        grid-template-columns: 75% 25%;
+        grid-template-rows: 100px 450px 150px;
+      }
