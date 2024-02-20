@@ -47,3 +47,18 @@ body{
     height: 50px;
    text-align: center;
 }
+table {
+    border-collapse: collapse;
+    height: 350px;
+    width: 200%;
+}
+  th, td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    background-color: cornsilk;
+
+}
+
+  
+  tr:hover {background-color: coral;}
