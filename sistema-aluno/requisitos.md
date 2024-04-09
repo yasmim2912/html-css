@@ -1,6 +1,6 @@
-**1-melhorar o leiaute
+**1-melhorar o leiaute*
 
-**2-local para guardar dados#
+2-local para guardar dados
 
 3-alinhar o leiaute
 
