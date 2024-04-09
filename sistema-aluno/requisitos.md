@@ -1,6 +1,6 @@
 ***1-melhorar o leiaute dando-lhe uma estetica mais agradavel***
 
-***2-local para guardar dados fornecidos durante os formularios ***
+***2-local para guardar dados fornecidos durante os formularios***
 
 ***3-centraliar toxtos e tabelas***
 
