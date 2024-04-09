@@ -1,13 +1,13 @@
 ***1-melhorar o leiaute***
 
-2-local para guardar dados
+***2-local para guardar dados***
 
-3-alinhar o leiaute
+***3-alinhar o leiaute***
 
-4-lincar as paginas
+***4-lincar as paginas***
 
-5-acrescentar mais informaçoes
+***5-acrescentar mais informações***
 
-6-arrumar possives erreros que podem surgir
+***6-arrumar possives erreros que podem surgir***
 
-7-deixar a estetica do site mais agradavel
+***7-deixar a estetica do site mais agradavel***
